@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/TheLegion007/InterviewPrep/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TheLegion007/InterviewPrep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TheLegion007/InterviewPrep/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/TheLegion007/InterviewPrep/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/TheLegion007/InterviewPrep/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TheLegion007/InterviewPrep/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/TheLegion007/InterviewPrep/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/TheLegion007/InterviewPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2833-furthest-point-from-origin](https://github.com/TheLegion007/InterviewPrep/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TheLegion007/InterviewPrep/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/TheLegion007/InterviewPrep/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/TheLegion007/InterviewPrep/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/TheLegion007/InterviewPrep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Stack
