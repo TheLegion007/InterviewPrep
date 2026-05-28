@@ -1,8 +1,8 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
-        // 
-        // 
+        // TC : O(n + 26) ≈ O(n)
+        // SC : O(1)
         vector<int> lastlower(26, -1);
         vector<int> firstupper(26, -1);
 
