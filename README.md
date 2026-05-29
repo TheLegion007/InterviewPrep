@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/TheLegion007/InterviewPrep/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/TheLegion007/InterviewPrep/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/TheLegion007/InterviewPrep/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheLegion007/InterviewPrep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/TheLegion007/InterviewPrep/tree/master/0189-rotate-array) |
 | [2998-count-symmetric-integers](https://github.com/TheLegion007/InterviewPrep/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/TheLegion007/InterviewPrep/tree/master/3227-find-missing-and-repeated-values) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TheLegion007/InterviewPrep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/TheLegion007/InterviewPrep/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Enumeration
 |  |
